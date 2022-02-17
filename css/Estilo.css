@@ -1,0 +1,37 @@
+body{
+    background: linear-gradient(to bottom, rgb(73, 111, 126), black);
+    font-size: 30px;
+}
+.EntradaDatos{
+    background: linear-gradient(to bottom, darkcyan, gray);
+    float: left;
+    width: 35%;
+    height: 125px;
+    padding: 2%;
+    margin-top: 15%;
+    margin-left: 10%;
+    border-radius: 25px;
+    
+}
+.txtNumero{
+    height: 30px;
+    font-size: 20px;
+}
+.btnCalcular{
+    background-color: orange;
+    height: 30px;
+    font-size: 20px;
+    margin-left: 30%;
+}
+.Resultados{
+    background: linear-gradient(to bottom, rgb(100, 100, 100), black);
+    color: aliceblue;
+    float: left;
+    width: 25%;
+    height: 520px;
+    padding: 3%;
+    padding-left: 9%;
+    margin-top: 5%;
+    margin-left: 2%;
+    border-radius: 25px;
+}
